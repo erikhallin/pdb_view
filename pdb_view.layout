@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Run" />
+	<File name="main.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4707" topLine="154" />
+		</Cursor>
+		<Folding>
+			<Collapse line="111" />
+			<Collapse line="114" />
+			<Collapse line="118" />
+			<Collapse line="174" />
+			<Collapse line="176" />
+			<Collapse line="218" />
+			<Collapse line="281" />
+		</Folding>
+	</File>
+	<File name="master.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="114" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="210" />
+			<Collapse line="258" />
+		</Folding>
+	</File>
+	<File name="master.h" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="296" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="definitions.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
